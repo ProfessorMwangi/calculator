@@ -234,3 +234,6 @@ height: 100px;
 .divide:hover{
   box-shadow: 5px 5px 4px rgba(65, 161, 216, 1)
 }
+.divide-img{
+  height: 30px;
+}
